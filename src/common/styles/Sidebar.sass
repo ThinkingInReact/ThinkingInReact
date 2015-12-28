@@ -1,0 +1,26 @@
+.Sidebar
+  transition: all 250ms ease-in
+  box-shadow: inset -1px 0 $light-black
+
+  a
+    transition: background-color 200ms linear,color 500ms linear
+    color: $gray-blue
+    text-decoration: none
+    font-size: .9rem
+    display: block
+
+  a:hover
+    background-color: $light-blue
+
+  li
+    padding: 0rem .6rem
+
+  ul > li > a
+    font-weight: bold
+
+  ul > li > ul > li a
+    padding-left: 0.2rem
+    font-size: 0.6rem
+
+.TOCLink--Disabled
+  pointer-events: none

@@ -1,0 +1,13 @@
+{
+  "github": "ThinkingInReact/ThinkingInReact",
+  "css": [
+    "src/book/assets/customStyles.css"
+  ],
+  "docs": "src/book",
+  "markdown": {
+    "typographer": true,
+    "plugins": {
+      "decorate": {}
+    }
+  }
+}

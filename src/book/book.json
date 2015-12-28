@@ -1,0 +1,8 @@
+{
+  "title": "Thinking In React",
+  "structure": {
+    "readme": "Intro.md",
+    "summary": "README.md"
+  },
+  "plugins": ["anchors", "richquotes"]
+}

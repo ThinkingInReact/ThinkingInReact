@@ -1,0 +1,19 @@
+html .markdown-body
+  @extend .Body
+
+  code 
+    background: linear-gradient(to bottom, transparent 15%, rgba(47, 167, 143, 0.03) 15%, rgba(47, 167, 143, 0.03) 85%, transparent 85%)
+    letter-spacing: -.05em
+    margin: 0 .05em
+
+  code:before,
+  code:after
+    letter-spacing: -.35em
+
+  pre
+    padding: 24px
+    box-shadow: inset 1px 1px rgba(0, 0, 0, 0.04)
+    background: #fafbfb
+
+  pre code
+    background: transparent
