@@ -4,6 +4,9 @@
     "src/book/assets/customStyles.css"
   ],
   "docs": "src/book",
+  "googleAnalytics": {
+    "id": "UA-71880467-1"
+  },
   "markdown": {
     "typographer": true,
     "plugins": {
