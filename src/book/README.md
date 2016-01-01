@@ -1,5 +1,5 @@
 * [Introduction](Intro.md)
-* [React Basics](react-basics/README.md)
+* React Basics
   * Hello World
   * Setting Up A Dev Environment
   * Your First React App
