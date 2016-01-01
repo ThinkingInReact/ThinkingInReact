@@ -5,11 +5,11 @@ class Menu extends Component {
   renderLoginOrLogout() {
     if(this.props.isLoggedIn) {
       return (
-        <a href="https://ThinkingInReact.xyz/logout" className="Logout">Logout</a>
+        <a href="https://www.ThinkingInReact.xyz/logout" className="Logout">Logout</a>
       );
     } else {
       return (
-        <a href="https://ThinkingInReact.xyz/login" className="Login">Login</a>
+        <a href="https://www.ThinkingInReact.xyz/#login" className="Login">Login</a>
       );
     }
   }

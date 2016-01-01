@@ -4,7 +4,6 @@ import marked from 'marked';
 import mdExtract from 'markdown-extract';
 import path from 'path';
 import { normalize } from 'path';
-import toc from '../../toc.js'
 import markdownIt from './md';
 import tocifyPage from './tocifyPage.js';
 

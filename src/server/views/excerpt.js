@@ -5,7 +5,7 @@ export default function excerpt($) {
   return `
     ${out}
     <p>
-      .... That was an excerpt. Want The full thing? <a href="https://ThinkingInReact.xyz#packages"> Buy It </a>
+      .... That was an excerpt. Want The full thing? <a href="https://www.ThinkingInReact.xyz#packages"> Buy It </a>
     </p>
   `;
 }
