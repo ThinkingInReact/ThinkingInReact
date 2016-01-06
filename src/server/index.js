@@ -44,8 +44,7 @@ app.use(cookieParser());
 mongoose.connect(process.env['MONGO_URI']);
 
 var sessionStore = new MongoDBStore( {
-  uri: process.env['MONGO_URI'],
-  collection: 'sessions'
+  uri: process.env['MONGO_URI']
 });
 
 // Catch errors
@@ -55,10 +54,10 @@ sessionStore.on('error', function(error) {
 
 let sess = {
   resave: true,
-  saveUninitialized: true,
+  saveUninitialized: false,
   secret: process.env['SESSION_SECRET'],
   store: sessionStore,
-  cookie: {httpOnly: false, domain: '.' + process.env['DOMAIN'], secure: false}
+  cookie: { httpOnly: true, domain: process.env['SESSION_DOMAIN']}
 };
 
 app.use(session(sess));
