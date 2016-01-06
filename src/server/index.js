@@ -24,7 +24,7 @@ import excerpt from './views/excerpt';
 import preview from './views/preview';
 
 let webpack, webpackDevMiddleware, webpackHotMiddleware, config;
-const MongoStore = require('connect-mongo')(session);
+const MongoDBStore = require('connect-mongodb-session')(session);
 const app = express();
 const ectRenderer = ECT({ watch: true, root: './src/server/views', ext : '.ect' });
 
@@ -43,20 +43,24 @@ app.use(cookieParser());
 // Sessions
 mongoose.connect(process.env['MONGO_URI']);
 
-const sess = {
+var sessionStore = new MongoDBStore( {
+  uri: process.env['MONGO_URI'],
+  collection: 'sessions'
+});
+
+// Catch errors
+sessionStore.on('error', function(error) {
+  console.log(error);
+});
+
+let sess = {
   resave: true,
   saveUninitialized: true,
   secret: process.env['SESSION_SECRET'],
-  domain: '.' + process.env['DOMAIN'],
-  store: new MongoStore({ mongooseConnection: mongoose.connection }),
-  cookie: {httpOnly: false, secure: false}
+  store: sessionStore,
+  cookie: {httpOnly: false, domain: '.' + process.env['DOMAIN'], secure: false}
 };
 
-if(process.env['NODE_ENV'] == 'production') {
-  sess.cookie.secure = true;
-}
-
-app.use(session(sess));
 app.use(session(sess));
 
 app.use(passport.initialize());

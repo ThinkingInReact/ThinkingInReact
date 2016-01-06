@@ -5,7 +5,8 @@
   ],
   "docs": "src/book",
   "googleAnalytics": {
-    "id": "UA-71880467-1"
+    "id": "UA-71880467-1",
+    "domain": "ThinkingInReact.xyz"
   },
   "markdown": {
     "typographer": true,
