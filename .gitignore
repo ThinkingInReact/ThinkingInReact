@@ -2,3 +2,4 @@ build/
 _docpress/
 server.js
 server.js.map
+.env
