@@ -15,21 +15,38 @@
   - DOM Manipulations
   - Brief notes on Animations
 
-## In The Future
+## Notes
 
-- [ ] FrontMatter support (used for bonus chapters)
-- [ ] full control of build process for all formats
-- [ ] caching
-- [ ] buyform and loginform
-- [ ] use one markdown parser
-- [ ] redux devtools added
-- [ ] reduce initial data load
-- [ ] add markdown-it-container
-- [ ] add some note, warnign styles etc from BuildYourOWnSinatra
-- [ ] add base HTML for rendering book
-- [ ] add a webpack build config for book
-- [ ] port over BYOS styles for plain book
-- [ ] get book building to html file
-- [ ] add book build to pdf script
-- [ ] add book build to epub script
-- [ ] add book build to mobi script
+`~` tells webpack to look in modules directories when importing paths
+
+We should document how nested reducers in Redux are necessary. Make a point to note how easily composable redcuers are. They are just plain functions so say for example you have and Articles reducer and you want to split individual logic for articles into an Article reducer. You can do something like:
+
+```js
+function articleReducer(state, action) {
+  switch (action.type) {
+    case 'SET_ARTILE_TITLE':
+      return {
+        ...state,
+        title: action.title  
+      }
+    default:
+      return state;
+  }
+}
+
+function articlesReducer(state, action) {
+  switch (action.type) {
+    case 'SET_ARTILE_TITLE':
+      return state.map((article) => {
+        if(article.id === action.id) {
+          Object.assign({}, article, articleReducer(article, action))
+        }
+        else {
+          article
+        }
+      })      
+    default:
+      return state;
+  }
+}
+```
