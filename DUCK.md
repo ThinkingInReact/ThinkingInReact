@@ -17,7 +17,7 @@
 
 ## Notes
 
-`~` tells webpack to look in modules directories when importing paths
+`\~` tells webpack to look in modules directories when importing paths
 
 We should document how nested reducers in Redux are necessary. Make a point to note how easily composable redcuers are. They are just plain functions so say for example you have and Articles reducer and you want to split individual logic for articles into an Article reducer. You can do something like:
 
