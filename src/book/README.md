@@ -2,7 +2,7 @@
 * [What You Need To Know](react-basics/README.md)
 * React Basics
   * [Hello World](react-basics/HelloWorld.md)
-  * Setting Up A Dev Environment
+  * [Setting up a Dev Environment](react-basics/SettingUpADevEnvironment.mdg)
   * Your First React App
 * Thinking In React
   * Inside Components
