@@ -32,7 +32,7 @@ There is little in the way of explanations for installation commands in this boo
 
 I have tried to keep the workflows in this book as simple as possible and their dependencies few, but there will still be relatively a lot of them. You will need to be completely comfortable running `npm install -g` and debugging any potential problems. If like most JS developers you use npm on a daily basis then you will have no problem.
 
-Some familiarity with build tools like grunt, gulp, webpack would be helpful but not too necessary. It was my goal to eliminate friction and [JavasScript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4) as much as possible so it is rare you will encounter a chapter that isn't pre-configured. My goal is to teach you React, not build tools.
+Some familiarity with build tools like grunt, gulp, webpack would be helpful but not too necessary. It was my goal to eliminate friction and [JavaScript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4) as much as possible so it is rare you will encounter a chapter that isn't pre-configured. My goal is to teach you React, not build tools.
 
 [^monads]: Anyone that has tried to grasp monads knows what I am talking about. Monads, cant understand them, cant make them into [moleeds](https://www.ted.com/talks/charles_fleischer_insists_all_things_are_moleeds?language=en)
 [^x-and-y]: Astute readers may recognize this as an [x and y problem](http://xyproblem.info)
