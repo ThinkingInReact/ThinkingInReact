@@ -64,6 +64,7 @@
     "lodash": "^3.10.1",
     "markdown-extract": "^1.0.2",
     "markdown-it": "^5.0.2",
+    "markdown-it-footnote": "^2.0.0",
     "marked": "^0.3.5",
     "mongoose": "^4.2.7",
     "normalize.css": "^3.0.3",

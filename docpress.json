@@ -11,7 +11,8 @@
   "markdown": {
     "typographer": true,
     "plugins": {
-      "decorate": {}
+      "decorate": {},
+      "footnote": {}
     }
   }
 }
