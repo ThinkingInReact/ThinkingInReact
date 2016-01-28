@@ -144,7 +144,7 @@ For this book we will use JSX and ES6. Mostly, because it is the standard way of
 
 Mixing markup with JS seems strange at first and can feel like a massive violation of separation of concerns but once you get to used to it you will realize it makes sense.
 
-One of the the things the creators of React realized was that views and code are intertwined. Separating the markup in modern web apps doesn't make sense anymore than egg-laying mammals or using XML [^sorry-mozilla-and-android] to build desktop or mobile apps. Separating markup made sense when pages where mostly static content but no longer makes sense when the browser is a platform full fledge apps.
+The creators of React realized that views and code are intertwined. Separating the markup in modern web apps doesn't make sense anymore than egg-laying mammals or using XML [^sorry-mozilla-and-android] to build desktop or mobile apps. Separating markup made sense when pages where mostly static content but no longer makes sense when the browser is a platform full fledge apps.
 
 React took some very old ideas and re-applied them to the web. Putting markup in views, declarative layouts, unidirectional data-flow; these are all ideas that have been around for awhile but they were used in different domains, it took some sane minds to realize the web was becoming like those domains, that their ways were suddenly applicable.
 
