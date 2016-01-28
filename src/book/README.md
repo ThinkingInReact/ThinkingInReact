@@ -12,7 +12,7 @@
   * Composing Components
   * Using External Libraries With React
 * Data Recipes
-  * Validation
+  * [Validation](data-recipes/Validation.md)
   * Associative Data
   * Handling Users: Authentication and Sessions
   * Computed Properties
