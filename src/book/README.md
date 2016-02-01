@@ -3,7 +3,7 @@
 * React Basics
   * [Hello World](react-basics/HelloWorld.md)
   * [Setting up a Dev Environment](react-basics/SettingUpADevEnvironment.md)
-  * Your First React App
+  * [Your First React App](react-basics/YourFirstReactApp.md)
 * Thinking In React
   * Inside Components
   * Changing Things: Managing State and Props
