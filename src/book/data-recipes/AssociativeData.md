@@ -16,7 +16,7 @@ Let's say you have some books and those books have authors and those authors hav
           cats: [
             {
               id: "A113",
-              name: "Awesomeo",
+              name: "Awesome-o",
               size: "too big"
             }
           ]
