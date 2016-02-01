@@ -18,7 +18,7 @@
   * Computed Properties
   * Connecting To Backends
   * Derived Data
-  * Internationalization
+  * [Internationalization](data-recipes/Internationalization.md)
   * Loading and Saving Things
 * Interactions
   * Dragging
