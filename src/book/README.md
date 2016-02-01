@@ -10,7 +10,7 @@
   * Component Best Practices
   * Testing Components
   * Composing Components
-  * Using External Libraries With React
+  * [Using jQuery With React](thinking-in-react/UsingjQueryWithReact.md)
 * Data Recipes
   * [Validation](data-recipes/Validation.md)
   * [Associative Data](data-recipes/AssociativeData.md)
