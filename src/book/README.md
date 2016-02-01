@@ -13,7 +13,7 @@
   * Using External Libraries With React
 * Data Recipes
   * [Validation](data-recipes/Validation.md)
-  * Associative Data
+  * [Associative Data](data-recipes/AssociativeData.md)
   * Handling Users: Authentication and Sessions
   * Computed Properties
   * Connecting To Backends
