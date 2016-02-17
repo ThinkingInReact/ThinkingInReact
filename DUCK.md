@@ -50,3 +50,7 @@ function articlesReducer(state, action) {
   }
 }
 ```
+
+## TODOS
+
+Write about using formatjs for internationalization https://github.com/yahoo/react-intl
