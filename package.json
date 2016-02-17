@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "start:nf": "npm run webpack:server && nf start",
-    "start:dev": "npm run start:docpress && npm run webpack:server && nf start",
+    "start:dev": "npm run webpack:server && nf start",
     "start:docpress": "docpress s",
     "webpack:server": "webpack --config webpack.server.config.js",
     "webpack:client": "webpack --config webpack.client.config.js",
