@@ -28,8 +28,6 @@ const MongoDBStore = require('connect-mongodb-session')(session);
 const app = express();
 const ectRenderer = ECT({ watch: true, root: './src/server/views', ext : '.ect' });
 
-import 'source-map-support/register';
-
 // Views
 app.set('views', './src/server/views');
 app.set('view engine', 'ect');

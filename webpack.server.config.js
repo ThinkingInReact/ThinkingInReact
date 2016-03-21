@@ -43,7 +43,11 @@ var config = {
         loader: 'react-markdown'
       }
     ]
-	}
+	},
+  plugins: [
+    new webpack.BannerPlugin('require("source-map-support").install();',
+                         { raw: true, entryOnly: false })
+  ]
 };
 
 module.exports = config;
