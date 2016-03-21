@@ -17,13 +17,13 @@ class Menu extends Component {
   render() {
     return (
       <nav>
-        <a href="https://read.ThinkingInReact.xyz/downloads/pdf" title="Download PDF">
+        <a href="http://read.ThinkingInReact.xyz/downloads/pdf" title="Download PDF">
           Download PDF
         </a>
-        <a href="https://read.ThinkingInReact.xyz/downloads/epub" title="Download EPUB">
+        <a href="http://read.ThinkingInReact.xyz/downloads/epub" title="Download EPUB">
           Download EPUB
         </a>
-        <a href="https://read.ThinkingInReact.xyz/downloads/mobi" title="Download Mobi">
+        <a href="http://read.ThinkingInReact.xyz/downloads/mobi" title="Download Mobi">
           Download Mobi
         </a>
 
