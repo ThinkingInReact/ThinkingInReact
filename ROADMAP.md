@@ -2,9 +2,9 @@
 
 A roadmap/timeline of the chapter release schedule.
 
-## February
+## March
 
-Feb 16th:
+March 23rd:
 
 * Thinking In React
   * Composing Components
@@ -13,7 +13,7 @@ Feb 16th:
   * Handling Users: Authentication and Sessions
   * Connecting To Backends
 
-Feb 18th:
+March 28th:
 
 (Data Recipes section completed)
 
@@ -25,12 +25,14 @@ Feb 18th:
 * Thinking In React
   * Component Best Practices
 
-Feb 19th:
+March 29th:
 
 * Complete Projects
   * Stripe Payment Form
 
-Feb 22nd:
+## April
+
+April 1st:
 
 * Thinking in React
   * Inside Components
@@ -46,7 +48,7 @@ Feb 22nd:
   * Button
   * Slider
 
-Feb 23rd:
+April 4th:
 
 (Interactions section completed)
 
@@ -59,7 +61,7 @@ Feb 23rd:
   * Sortables
   * Draggable, Droppable and Sortable: All the Interactions
 
-Feb 24th:
+April 5th:
 
 * Widgets
   * Menu
@@ -68,12 +70,12 @@ Feb 24th:
 * Complete Projects
   * Simple Chat App
 
-Feb 25th:
+April 8th:
 
 * Common Features
   * Undo/Redo
 
-Feb 26th:
+April 11th:
 
 * Common UI
   * Tables
@@ -83,14 +85,12 @@ Feb 26th:
 * Complete Projects
   * An Ebook Selling Site
 
-Feb 29th:
+April 13th:
 
 * Common Features
   * Routing
 
-## March
-
-March 2nd:
+April 14th:
 
 * Common UI
   * Stars/Faving
