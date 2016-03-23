@@ -15,7 +15,7 @@
   * [Validation](data-recipes/Validation.md)
   * [Associative Data](data-recipes/AssociativeData.md)
   * Handling Users: Authentication and Sessions
-  * Computed Properties
+  * [Computed Properties](data-recipes/ComputedProperties.md)
   * Connecting To Backends
   * Derived Data
   * [Internationalization](data-recipes/Internationalization.md)
