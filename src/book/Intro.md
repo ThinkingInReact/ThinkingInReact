@@ -1,19 +1,5 @@
 # Thinking In React
 
-When I was little I had a ton of stuffed animals and action figures. First, I'd setup the stuffed animals by throwing them onto the floor into "strategic" locations. Then I'd dump the action figures out onto the floor. The stuffed animals were the mythical monsters and the action figures were the humans defending their land.
-
-It was a perfect setting for conflict and deus ex machina powered plot lines. The stuffed animals served as a faceless horde and enemy that could not be empathized with. There is no better enemy than a gigantic stuffed lion.
-
-Not all the drama was drawn from the conflict of stuffed animal vs human. The humans were fraught with internal conflicts that they would have to work through and resolve if they were to successfully defend their land. They were often lead by a king battling his inner demons from a time when his wife died at the hands of stuffed rabbitabunnysaurus. The king was hell bent on revenge and cared little for the effect his policies had on his citizens, he cared only to wipe out the monsters.
-
-It was always up to an unlikely hero to save the day, to lead the humans to victory and in the process convince the king to believe in him and overcome his demons. A downtrodden knight born of peasant parents -- but through a combination anachronistic musical numbers and pretending to be Sir Ulrich von Liechtenstein he is able to become a knight. Together the knight and the king's daughter would save the kingdom from the great stuffed animals.
-
-Playtime was great but pickup was horrible. I didn't even know where to begin. The room was too much of a disaster. I couldn't see through the mess; the fog of stranded stuffed and animals, action figures hanging from desks, pillow forts constructed from imminent domain seized pillows. Picking up was hard because I didn't know how to approach the problem.
-
-Sometimes I'd sit in my room for hours just staring at the mess. Moving things into random spots, hoping somehow, even without me really making progress, that my room would clean itself. I hoped a pattern might reveal itself add suddenly without even trying really the stuffed animals would find their way off the floor and into places adequately satisfactory for Mom.
-
-I eventually learned that I could put stuffed animals in buckets. And action figures could have spots not under beds. And that pillow forts could be deconstructed without toppling the couch onto my sister's head. I learned how to think about picking up. It became easy, no longer a chore, just part of the process of play. It became easy.
-
 When you first encounter React it is like playing. We get hot reload, unidirectional data flow, inline styles, JSX and fancy demos that make everything seem awesome. But when we set out our own we can be quickly overwhelmed. Our heads quickly get filled with questions like; How do I use jQuery libs with this? How do I animate things? Do I use props or state for this? What is the difference between props and state anyway? Wait, why are my input values not changing? It is easily to feel like; "I'm just going back to Backbone and jQuery, forget this stuff"
 
 I learned to program in 2004 on Macromedia Flash MX. Flash was amazing _\*shudders\*_ and easy! Everything I needed was right there; all I had to do was add a script and hit "run". In seconds, there would be action on my screen! I could make anything happen! I could build anything! WORLDS WITHIN WORLDS!
