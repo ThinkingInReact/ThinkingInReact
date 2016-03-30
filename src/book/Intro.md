@@ -1,6 +1,6 @@
 # Thinking In React
 
-When you first encounter React it is like playing. We get hot reload, unidirectional data flow, inline styles, JSX and fancy demos that make everything seem awesome. But when we set out our own we can be quickly overwhelmed. Our heads quickly get filled with questions like; How do I use jQuery libs with this? How do I animate things? Do I use props or state for this? What is the difference between props and state anyway? Wait, why are my input values not changing? It is easily to feel like; "I'm just going back to Backbone and jQuery, forget this stuff"
+When you first encounter React it is like playing. We get hot reload, unidirectional data flow, inline styles, JSX and fancy demos that make everything seem awesome. But when we set out our own we can be quickly overwhelmed. Our heads quickly get filled with questions like; How do I use jQuery libs with this? How do I animate things? Do I use props or state for this? What is the difference between props and state anyway? Wait, why are my input values not changing? It is to feel say, "forget this. I'm going back to Backbone and jQuery"
 
 I learned to program in 2004 on Macromedia Flash MX. Flash was amazing _\*shudders\*_ and easy! Everything I needed was right there; all I had to do was add a script and hit "run". In seconds, there would be action on my screen! I could make anything happen! I could build anything! WORLDS WITHIN WORLDS!
 
