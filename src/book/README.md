@@ -7,7 +7,7 @@
 * Thinking In React
   * Inside Components
   * Changing Things: Managing State and Props
-  * Component Best Practices
+  * [Component Best Practices](thinking-in-react/ComponentBestPractices.md)
   * [Testing Components](thinking-in-react/TestingComponents.md)
   * Composing Components
   * [Using jQuery With React](thinking-in-react/UsingjQueryWithReact.md)
