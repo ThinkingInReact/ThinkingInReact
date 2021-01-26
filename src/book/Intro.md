@@ -6,7 +6,7 @@ I learned to program in 2004 on Macromedia Flash MX. Flash was amazing _\*shudde
 
 ![Worlds within Worlds](assets/intro/worldsWithinWorlds.png)
 
-Flash wasn't a simple tool; rich and complex applications took a herculean effort to create. What flash was, was easy. Flash let you instantly get up and running and to see what you were building. There were no task runners, no package managers to install, no frameworks to learn or build systems to master. You wrote code and then pressed "run"
+Flash wasn't a simple tool; rich and complex applications took a herculean effort to create.  Flash wasn't simple, it was _easy_. Flash let you instantly get up and running and to see what you were building. There were no task runners, no package managers to install, no frameworks to learn or build systems to master. You wrote code and then pressed "run"
 
 Later on, I learned HTML, CSS, and JS. This was even easier! I could write my app in a simple text editor and open it any browser! With JavaScript, I could add all sorts of cool things! Buttons that clicked! Elements that toggled -- that flew around the page and generally drove users insane! It was all so easy and all it took was a browser and a text editor!
 
