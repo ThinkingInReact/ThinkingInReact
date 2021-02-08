@@ -57,7 +57,7 @@
     "markdown-extract": "^1.0.2",
     "markdown-it": "^12.0.4",
     "markdown-it-footnote": "^3.0.2",
-    "marked": "^1.2.8",
+    "marked": "^2.0.0",
     "mongoose": "^5.11.13",
     "normalize.css": "^8.0.1",
     "passport": "^0.4.1",
