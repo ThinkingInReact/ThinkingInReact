@@ -55,7 +55,7 @@
     "kerberos": "1.1.4",
     "lodash": "^4.17.21",
     "markdown-extract": "^1.0.2",
-    "markdown-it": "^12.0.4",
+    "markdown-it": "^12.3.2",
     "markdown-it-footnote": "^3.0.2",
     "marked": "^2.0.0",
     "mongoose": "^5.11.13",
