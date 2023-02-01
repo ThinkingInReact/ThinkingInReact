@@ -58,7 +58,7 @@
     "markdown-it": "^12.3.2",
     "markdown-it-footnote": "^3.0.2",
     "marked": "^4.0.10",
-    "mongoose": "^5.11.13",
+    "mongoose": "^5.13.15",
     "normalize.css": "^8.0.1",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
