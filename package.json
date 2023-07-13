@@ -60,7 +60,7 @@
     "marked": "^4.0.10",
     "mongoose": "^5.13.15",
     "normalize.css": "^8.0.1",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.1.0",
     "react": "^17.0.1",
