@@ -94,7 +94,7 @@
     "github-markdown-css": "^4.0.0",
     "react-transform-hmr": "^1.0.4",
     "mocha": "^8.2.1",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "normalize.css": "^8.0.1",
     "react-markdown-loader": "osnr/react-markdown-loader.git",
     "sass-loader": "^10.1.1",
