@@ -44,7 +44,7 @@
     "connect-mongodb-session": "^2.4.1",
     "cookie-parser": "^1.4.5",
     "ect": "^0.5.9",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "express-jsonschema": "^1.1.6",
     "express-session": "^1.17.1",
     "gitbook-plugin-anchors": "^0.7.1",
