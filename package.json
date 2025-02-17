@@ -93,7 +93,7 @@
     "file-loader": "^6.2.0",
     "github-markdown-css": "^4.0.0",
     "react-transform-hmr": "^1.0.4",
-    "mocha": "^8.2.1",
+    "mocha": "^11.1.0",
     "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "react-markdown-loader": "osnr/react-markdown-loader.git",
