@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/ThinkingInReact/ThinkingInReact#readme",
   "dependencies": {
-    "body-parser": "^2.3.0",
+    "body-parser": "^2.4.0",
     "cheerio": "^0.22.0",
     "classnames": "^2.2.6",
     "connect-mongodb-session": "^5.0.0",
